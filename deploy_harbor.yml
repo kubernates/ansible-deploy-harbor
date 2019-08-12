@@ -17,7 +17,7 @@
     - generate_ssl: true
     - harbor_install_path : "/usr/local/"
     - harbor_offline_installer_version: 1.2.2
-    - docker_compose_version: 1.16.1
+    - docker_compose_version: 1.23.1
     - harbor_email_server: mail.domain.tld
     - harbor_email_username: harboradmin@domain.tld
   
